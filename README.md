@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-    <img src="https://img.shields.io/badge/Mail.google-blue?style=for-the-badge&logo=Mail.google&logoColor=white" alt="Mail.google Badge"/>
+    <img src="https://img.shields.io/badge/Mail-hue?style=for-the-badge&logo=Mail.google&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=KipronohVincent&style=flat-square&color=blue" alt=""/>
