@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/kipronoh-vincent-b09979212/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
