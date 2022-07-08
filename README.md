@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Nairobi, Kenya`.
-- :telescope: I’m Currently studing at Alx-Holberton School of Computer Science as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m Currently studying at Alx-Holberton School of Computer Science as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling:  Exploring Technical Content Writing.
 
