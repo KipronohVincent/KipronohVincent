@@ -67,7 +67,7 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KipronohVincent&theme=hacker&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KipronohVincent&theme=hacker&background=000000)](https://git.io/streak-stats) -->
 [![vincent's GitHub stats](https://stats.quine.sh/vincent/github)](https://quine.sh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KipronohVincent&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
